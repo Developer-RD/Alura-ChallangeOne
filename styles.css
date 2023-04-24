@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+}
+
+body{
+    background-color: azure;
+    margin: 0 5%;
+}
+
+header > h1{
+    padding: 3vmin;
+    margin-top: 3vmin;
+    margin-bottom: 3vmin;
+    font-size: 10vmin;
+}
+
+
+
+.entradaDatos, .salidaDatos{
+    display: inline-block;
+    margin: 3vmin;
+    width: auto;
+}
+
+.botones{
+    display: block;
+}
+
+.boton{
+    padding: 10px;
+    background-color: white;
+    border: 1px solid tomato;
+}
